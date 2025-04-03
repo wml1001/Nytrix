@@ -1,0 +1,11 @@
+﻿  正在扫描源以查找模块依赖项...
+  main.cpp
+C:\Users\31435\Desktop\miansha\myC2\ServerManager\main.cpp(33,12): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\31435\Desktop\miansha\myC2\ServerManager\main.cpp(34,12): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\31435\Desktop\miansha\myC2\ServerManager\main.cpp(35,12): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\31435\Desktop\miansha\myC2\ServerManager\main.cpp(36,12): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1365 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\31435\Desktop\miansha\myC2\ServerManager\x64\Release\Project1.exe

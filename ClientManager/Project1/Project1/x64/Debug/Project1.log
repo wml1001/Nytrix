@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\31435\Desktop\miansha\myC2\ClientManager\Project1\main.cpp(101,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31435\Desktop\miansha\myC2\ClientManager\Project1\main.cpp(106,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31435\Desktop\miansha\myC2\ClientManager\Project1\main.cpp(129,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\31435\Desktop\miansha\myC2\ClientManager\Project1\main.cpp(183,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\31435\Desktop\miansha\myC2\ClientManager\Project1\x64\Debug\Project1.exe

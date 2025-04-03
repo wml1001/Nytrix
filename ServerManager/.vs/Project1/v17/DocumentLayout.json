@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:PuppetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetConnectDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:PuppetConnectDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\CommandDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:CommandDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:ControlManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ServerCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7E60B6C-457A-4E3C-B1CB-7A0CA846B21E}|Project1.vcxproj|solutionrelative:ServerCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T03:32:09.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandDispatcher.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\CommandDispatcher.cpp",
+              "RelativeDocumentMoniker": "CommandDispatcher.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\CommandDispatcher.cpp",
+              "RelativeToolTip": "CommandDispatcher.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T02:53:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuppetConnectDispatcher.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetConnectDispatcher.cpp",
+              "RelativeDocumentMoniker": "PuppetConnectDispatcher.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetConnectDispatcher.cpp",
+              "RelativeToolTip": "PuppetConnectDispatcher.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T03:18:01.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlManager.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ControlManager.cpp",
+              "RelativeDocumentMoniker": "ControlManager.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ControlManager.cpp",
+              "RelativeToolTip": "ControlManager.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAqwLYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T02:48:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerCommon.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ServerCommon.cpp",
+              "RelativeDocumentMoniker": "ServerCommon.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\ServerCommon.cpp",
+              "RelativeToolTip": "ServerCommon.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T01:59:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuppetManager.cpp",
+              "DocumentMoniker": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetManager.cpp",
+              "RelativeDocumentMoniker": "PuppetManager.cpp",
+              "ToolTip": "C:\\Users\\31435\\Desktop\\miansha\\myC2\\ServerManager\\PuppetManager.cpp",
+              "RelativeToolTip": "PuppetManager.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwE4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T05:56:53.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

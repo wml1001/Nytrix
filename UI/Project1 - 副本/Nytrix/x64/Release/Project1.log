@@ -1,0 +1,7 @@
+﻿  正在生成代码
+C:\Users\31435\Desktop\miansha\myC2\UI\Project1 - 副本\AuthenticationManager.cpp(177): warning C4715: “AuthenticationManager::authenticationImplementation”: 不是所有的控件路径都返回值
+  3005 of 3022 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    51 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\31435\Desktop\miansha\myC2\UI\Project1 - 副本\x64\Release\Nytrix.exe
