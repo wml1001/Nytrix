@@ -1,4 +1,0 @@
-﻿  PuppetMain.cpp
-C:\Users\31435\Desktop\miansha\myC2\PuppetManager1\PuppetMain.cpp(92,87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\31435\Desktop\miansha\myC2\PuppetManager1\PuppetMain.cpp(98,1): warning C4102: “Cleanup”: 未引用的标签
-  PuppetManager1.vcxproj -> C:\Users\31435\Desktop\miansha\myC2\PuppetManager1\x64\Debug\PuppetManager1.exe
