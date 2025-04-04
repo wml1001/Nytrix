@@ -1,0 +1,10 @@
+# Visual Studio 临时文件
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.ipch
+*.VC.db
+*.opensdf
+*.sdf
